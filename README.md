@@ -1,1 +1,17 @@
-# cooking-notebook
+# my own cooking notebook :)
+
+Write down, index and browse recipes, whether they are your own or not ! 🍳
+
+
+1. Features (#features)
+2. Methods (#methods) 
+
+## Features
+
+TBD 
+
+## Methods 
+
+Main language: Java 
+IDE : Intellij IDEA 
+APIs : JDBC, JavaFX 
