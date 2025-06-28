@@ -12,6 +12,6 @@ TBD
 
 ## Methods <a name="methods">
 
-Main language: Java 
-IDE : Intellij IDEA 
-APIs : JDBC, JavaFX 
+Main language: Java \n
+IDE : Intellij IDEA  \n
+APIs : JDBC, JavaFX \n
